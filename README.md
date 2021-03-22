@@ -11,3 +11,6 @@ A Band Name Gernerator from the input of the user by their country name and pet 
 1) Used input,print functions and then created a variable
 2) More about commenting(combining using +, indentation are really important) 
 3) Learned that \n commenting brings the content/cursor to the next line in a single print function
+
+DAY 2:()
+

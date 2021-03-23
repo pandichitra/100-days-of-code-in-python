@@ -20,7 +20,7 @@ A Band Name Gernerator from the input of the user by their country name and pet 
  
  A simple Calculator was created taking the inputs of the totalbill, the percentage of the tips to be given and the number of people to split the bill
  
- 1)Usage of underscore_ for largenumbers was insightful and it treats like a normal integer\
+ 1)Usage of underscore_ for largenumbers was insightful and it treats like a normal integer&nbsp
  2)Applied the f string,type conversion , data type matching (else we can't concatenate) , type error and type checking<br/>
  3)Learnt the PEMDAS rule updated as PEMDASLR (with same priorities executed from left to right) and learnt about the round off e.g:round(2.666,2) to 2.67
  

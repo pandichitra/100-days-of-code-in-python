@@ -13,7 +13,7 @@ DAY 1:(https://replit.com/@PC10/PandiChitra-Day-1-Band-Name-Generator):
 
 A Band Name Gernerator from the input of the user by their country name and pet name
 1) Used input,print functions and then created a variable
-2) More about commenting(combining using +, indentation are really important) (<-- two spaces)
+2) More about commenting(combining using +, indentation are really important)<-- two spaces
 3) Learned that \n commenting brings the content/cursor to the next line in a single print function
 
 DAY 2:(https://replit.com/@PC10/PandiChitra-Day-02-Tip-Calculator):

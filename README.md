@@ -19,5 +19,6 @@ A Band Name Gernerator from the input of the user by their country name and pet 
 DAY 2:(https://replit.com/@PC10/PandiChitra-Day-02-Tip-Calculator):
  
  A simple Calculator was created taking the inputs of the totalbill, the percentage of the tips to be given and the number of people to split the bill
+ 
  1)
 

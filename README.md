@@ -9,11 +9,11 @@ If interested kindly pls head to those link and try running it !!
 
 Also u would find an emoji welcoming u daily because I just added those to have some fun !!!( kind of extra stuff )
 
-DAY 1:(https://replit.com/@PC10/PandiChitra-Day-1-Band-Name-Generator):
+#DAY 1:(https://replit.com/@PC10/PandiChitra-Day-1-Band-Name-Generator):
 
 A Band Name Gernerator from the input of the user by their country name and pet name
 1) Used input,print functions and then created a variable
-2) More about commenting(combining using +, indentation are really important)<-- two spaces
+2) More about commenting(combining using +, indentation are really important)
 3) Learned that \n commenting brings the content/cursor to the next line in a single print function
 
 DAY 2:(https://replit.com/@PC10/PandiChitra-Day-02-Tip-Calculator):

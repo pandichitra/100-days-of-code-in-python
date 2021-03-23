@@ -24,4 +24,8 @@ A Band Name Gernerator from the input of the user by their country name and pet 
  2)Applied the f string,type conversion , data type matching (else we can't concatenate) , type error and type checking<br/>
  3)Learnt the PEMDAS rule updated as PEMDASLR (with same priorities executed from left to right) and learnt about the round off e.g:round(2.666,2) to 2.67
  
+ **DAY 3:():**
+ 
+ 
+ 
 

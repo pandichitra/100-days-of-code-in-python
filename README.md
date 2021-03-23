@@ -22,5 +22,5 @@ DAY 2:(https://replit.com/@PC10/PandiChitra-Day-02-Tip-Calculator):
  
  1)Usage of underscore_ for largenumbers was insightful and it treats like a normal integer
  2)Applied the f string,type conversion , data type matching (else we can't concatenate) , type error and type checking
- 3)Learnt the PEMDAS rule updated as PEMDASLR (with same priorities executed from left to right) and learnt about the round off e.g:(2.666) to 2
+ 3)Learnt the PEMDAS rule updated as PEMDASLR (with same priorities executed from left to right) and learnt about the round off e.g:round(2.666,2) to 2.67
 

@@ -31,7 +31,8 @@ Created a Beautiful Treasure Island that responds to the way u give the input an
 1) Introduced to the conditional statements : if and else statement, Nested if statements and elif statements ,if/elif/else statements\
 2) More about indentation and it's importance\
 3) Comparison Operators <,>,<=,>=,==,!= and = is an Assignment operator that has right associativity\
-4) How to accept any kind of inputs if in lower or in upper case
+4) Developed a love calculator and it was fun !!!
+5) How to accept any kind of inputs if in lower or in upper case
 _________________________________________________________________________________________________________________________________________________________________________________
  **DAY 4:()**
  

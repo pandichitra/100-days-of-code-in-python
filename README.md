@@ -24,7 +24,16 @@ A Band Name Gernerator from the input of the user by their country name and pet 
  2)Applied the f string,type conversion , data type matching (else we can't concatenate) , type error and type checking<br/>
  3)Learnt the PEMDAS rule updated as PEMDASLR (with same priorities executed from left to right) and learnt about the round off e.g:round(2.666,2) to 2.67
  
- **DAY 3:():**
+ **DAY 3:(https://replit.com/@PC10/PandiChitra-Day-03-Treasure-Island):**
+ 
+ Created a Beautiful Treasure Island that responds to the way u give the input and gives u different outcomes.
+ 
+ 1)Introduced to the conditional statements : if and else statement, Nested if statements and elif statements ,if/elif/else statements\
+ 2)More about indentation and it's importance\
+ 3)Comparison Operators <,>,<=,>=,==,!= and = is an Assignment operator that has right associativity\
+ 4).lower() used to accept the inputs with left,Left or LEFT(it's just used to get any kind of inputs and convert and produce output)
+ 
+ 
  
  
  

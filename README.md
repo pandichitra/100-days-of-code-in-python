@@ -15,7 +15,7 @@ A Band Name Gernerator from the input of the user by their country name and pet 
 1) Used input,print functions and then created a variable
 2) More about commenting(combining using +, indentation are really important)
 3) Learned that \n commenting brings the content/cursor to the next line in a single print function
-
+_________________________________________________________________________________________________________________________________________________________________________________
 **DAY 2:(https://replit.com/@PC10/PandiChitra-Day-02-Tip-Calculator):**
  
 A simple Calculator was created taking the inputs of the totalbill, the percentage of the tips to be given and the number of people to split the bill
@@ -23,7 +23,7 @@ A simple Calculator was created taking the inputs of the totalbill, the percenta
 1) Usage of underscore_ for largenumbers was insightful and it treats like a normal integer\
 2) Applied the f string,type conversion , data type matching (else we can't concatenate) , type error and type checking<br/>
 3) Learnt the PEMDAS rule updated as PEMDASLR (with same priorities executed from left to right) and learnt about the round off e.g:round(2.666,2) to 2.67
- 
+_________________________________________________________________________________________________________________________________________________________________________________ 
  **DAY 3:(https://replit.com/@PC10/PandiChitra-Day-03-Treasure-Island):**
  
 Created a Beautiful Treasure Island that responds to the way u give the input and gives u different outcomes.
@@ -32,8 +32,8 @@ Created a Beautiful Treasure Island that responds to the way u give the input an
 2) More about indentation and it's importance\
 3) Comparison Operators <,>,<=,>=,==,!= and = is an Assignment operator that has right associativity\
 4) How to accept any kind of inputs if in lower or in upper case
- 
- 
+_________________________________________________________________________________________________________________________________________________________________________________
+ **DAY 4:()**
  
  
 

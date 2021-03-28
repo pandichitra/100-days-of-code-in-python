@@ -26,7 +26,7 @@ A simple Calculator was created taking the inputs of the totalbill, the percenta
 _________________________________________________________________________________________________________________________________________________________________________________ 
  **DAY 3:(https://replit.com/@PC10/PandiChitra-Day-03-Treasure-Island):**
  
-Created a Beautiful Treasure Island that responds to the way u give the input and gives u different outcomes.
+Created a Beautiful Treasure Island that responds  the way u give the input and gives u different outcomes.
  
 1) Introduced to the conditional statements : if and else statement, Nested if statements and elif statements ,if/elif/else statements\
 2) More about indentation and it's importance\

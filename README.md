@@ -32,6 +32,7 @@ Created a Beautiful Treasure Island that responds to the way u give the input an
 2) More about indentation and it's importance\
 3) Comparison Operators <,>,<=,>=,==,!= and = is an Assignment operator that has right associativity\
 4) Developed a love calculator and it was fun !!!
+  Just enter ur name and ur crush or ur lover name and find how it works ..Best wishes !!(https://replit.com/@PC10/PandiChitra-day-3-5-lovecalculator)
 5) How to accept any kind of inputs if in lower or in upper case
 _________________________________________________________________________________________________________________________________________________________________________________
  **DAY 4:()**

@@ -35,7 +35,7 @@ Created a Beautiful Treasure Island that responds  the way u give the input and 
   Just enter ur name and ur crush or ur lover name and find how it works ..Best wishes !!(https://replit.com/@PC10/PandiChitra-day-3-5-lovecalculator)
 5) How to accept any kind of inputs if in lower or in upper case
 _________________________________________________________________________________________________________________________________________________________________________________
- **DAY 4:()**
+ **DAY 4:(https://replit.com/@PC10/PandiChitra-Day-04-Rock-Paper-Scissors)**
  
 
 1) Introduced to Random module and differentiating between random.random(always produces the output as 0.000-0.9999 in float),random.randomint(starting index, ending         index),random.float()/random.choice(list_name)\

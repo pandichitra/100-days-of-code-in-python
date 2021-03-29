@@ -44,3 +44,5 @@ ________________________________________________________________________________
 3) Introduced to DATA STRUCTURE - Lists ( to replace, append, extend, indexing as '0' to access from the beginning or '-1' to access from the last in the list)\
 4) Nested List- and this can be accessed using the proper indexing (e.g:list_names[1][2] which means accessing the second list's second list element)\
 5) Worked with index error if the range exceeds which has to be reduced while indicating the range( actual length should be subtracted from 1 to get the correct range)
+_________________________________________________________________________________________________________________________________________________________________________________
+**DAY 5:()**

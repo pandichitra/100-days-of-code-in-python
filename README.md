@@ -11,14 +11,14 @@ Also u would find an emoji welcoming u daily because I just added those to have 
 
 **DAY 1:(https://replit.com/@PC10/PandiChitra-Day-1-Band-Name-Generator):**
 
-A Band Name Gernerator from the input of the user by their country name and pet name
+**A Band Name Gernerator** from the input of the user by their country name and pet name
 1) Used input,print functions and then created a variable
 2) More about commenting(combining using +, indentation are really important)
 3) Learned that \n commenting brings the content/cursor to the next line in a single print function
 _________________________________________________________________________________________________________________________________________________________________________________
 **DAY 2:(https://replit.com/@PC10/PandiChitra-Day-02-Tip-Calculator):**
  
-A simple Calculator was created taking the inputs of the totalbill, the percentage of the tips to be given and the number of people to split the bill
+**A simple Calculator** was created taking the inputs of the totalbill, the percentage of the tips to be given and the number of people to split the bill
  
 1) Usage of underscore_ for largenumbers was insightful and it treats like a normal integer\
 2) Applied the f string,type conversion , data type matching (else we can't concatenate) , type error and type checking<br/>
@@ -26,7 +26,7 @@ A simple Calculator was created taking the inputs of the totalbill, the percenta
 _________________________________________________________________________________________________________________________________________________________________________________ 
  **DAY 3:(https://replit.com/@PC10/PandiChitra-Day-03-Treasure-Island):**
  
-Created a Beautiful Treasure Island that responds  the way u give the input and gives u different outcomes.
+Created a **Beautiful Treasure Island** that responds  the way u give the input and gives u different outcomes.
  
 1) Introduced to the conditional statements : if and else statement, Nested if statements and elif statements ,if/elif/else statements\
 2) More about indentation and it's importance\
@@ -37,7 +37,8 @@ Created a Beautiful Treasure Island that responds  the way u give the input and 
 _________________________________________________________________________________________________________________________________________________________________________________
  **DAY 4:(https://replit.com/@PC10/PandiChitra-Day-04-Rock-Paper-Scissors)**
  
-
+ Created the nostalgic Childhood game **Rock-Paper-Scissor by using random module** and thus making the computer to generate the random moves and then the game begins.
+ 
 1) Introduced to Random module and differentiating between random.random(always produces the output as 0.000-0.9999 in float),random.randomint(starting index, ending         index),random.float()/random.choice(list_name)\
 2) Also created my own module\
 3) Introduced to DATA STRUCTURE - Lists ( to replace, append, extend, indexing as '0' to access from the beginning or '-1' to access from the last in the list)\

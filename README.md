@@ -47,7 +47,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________________
 **DAY 5:(https://replit.com/@PC10/PandiChitra-Day-05-Password-Generator)**
 
-Created the **Password Generator** which has 2 levels in it:
+Created the **Password Generator** which has 2 levels in it:\
 **1) The Easy one:** which gets the input count of letters,symbols and numbers and gives the output \
 **2) The Hard one:** here it shuffles the letters, symbols and numbers and then creates the sequence of password which is really hard to hack as it creates a different \                         passwords with different sequence each time adding an extra level of security.
 1) Learned the fundamentals of for loops and for loop with a range for x in range(start, end, [step/gap])

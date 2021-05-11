@@ -54,3 +54,5 @@ Created the **Password Generator** which has 2 levels in it:\
 2) shuffle strings with the random.shuffle thus, shuffled a list!
 3) Learned the way to convert a list into a string 
 4) Learned the logic behind for loops  wiht mentioning range or directly accessing in list.
+______________________________________________________________________________________________________________________________________________________________________________
+**DAY 6: (https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)**

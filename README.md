@@ -56,3 +56,6 @@ Created the **Password Generator** which has 2 levels in it:\
 4) Learned the logic behind for loops  wiht mentioning range or directly accessing in list.
 ______________________________________________________________________________________________________________________________________________________________________________
 **DAY 6: (https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)**
+______________________________________________________________________________________________________________________________________________________________________________
+**DAY 7: (https://replit.com/@PC10/Day-7-Hangman-Final#main.py)**
+______________________________________________________________________________________________________________________________________________________________________________
